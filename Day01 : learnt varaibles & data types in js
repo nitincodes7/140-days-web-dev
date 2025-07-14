@@ -1,0 +1,13 @@
+const profile = {
+  
+  name : "shradha khapra",
+  posts : 12,
+  following : 280,
+  followers : 200,
+  mail : "shradhamail.com",
+  
+};
+
+profile["name"] = "nitin";
+
+console.log(profile);
