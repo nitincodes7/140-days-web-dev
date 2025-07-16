@@ -1,0 +1,8 @@
+let guests = ["Alice", "Bob", "Charlie"];
+
+guests.push("david","eve");
+guests.splice(1,1);
+
+console.log(guests);
+console.log(guests.length);
+console.log(guests.toString());
